@@ -1,6 +1,6 @@
 {
     "name": "getcandy/admin",
-    "description": "GetCandy Admin Hub",
+    "description": "Admin Hub for GetCandy. A modern headless e-commerce solution for Laravel PHP framework.",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "beta",
