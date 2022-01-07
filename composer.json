@@ -13,8 +13,7 @@
     "autoload": {
         "psr-4": {
             "GetCandy\\Hub\\": "src",
-            "GetCandy\\Hub\\Database\\Factories\\": "database/factories",
-            "GetCandy\\Hub\\Database\\Seeders\\": "database/seeders"
+            "GetCandy\\Hub\\Database\\Factories\\": "database/factories"
         },
         "files": [
             "src/helpers.php"
