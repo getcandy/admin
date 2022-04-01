@@ -159,6 +159,7 @@ trait WithSavedSearches
         return false;
     }
 
+
     /**
      * Delete a saved search.
      *
